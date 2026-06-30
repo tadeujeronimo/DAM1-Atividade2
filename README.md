@@ -51,7 +51,7 @@ app/src/main/
 
 ## Download
 
-[Baixar APK](ttps://github.com/tadeujeronimo/DAM1-Atividade2/blob/main/app-debug.apk)
+[Baixar APK](https://github.com/tadeujeronimo/DAM1-Atividade2/blob/main/app-debug.apk)
 
 ## Atividade anterior
 
