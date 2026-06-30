@@ -1,10 +1,15 @@
 # DAM1-Atividade2 – MarcianoApp (Android)
 
-Projeto de aplicativo Android em Kotlin para Atividade 2 da disciplina de Desenvolvimento de Aplicações Móveis I.
+Projeto de aplicativo Android para robô marciano em Kotlin para Atividade 2 da disciplina de Desenvolvimento de Aplicações Móveis I.
 
 ## Descrição
 
 O app serve de interface ao `🤖 Robô Marciano 👽` implementado na Atividade 1 *(console)*, permitindo ao usuário enviar mensagens ao robô e receber respostas em tempo real.
+
+## Screenshots
+
+<!-- ![App Screenshot](https://github.com/tadeujeronimo/DAM1-Atividade2/blob/main/screenshots.gif) -->
+<img src="https://github.com/tadeujeronimo/DAM1-Atividade2/blob/main/screenshots.gif" height="500">
 
 ## Telas
 
@@ -43,6 +48,14 @@ app/src/main/
 - Android Studio Koala ou superior
 - **Android SDK 35+** (Android 15)
 - Kotlin 2.0+
+
+## Download
+
+[Baixar APK](https://github.com/tadeujeronimo/DAM1-Atividade2//app/build/outputs/apk/debug/app-debug.apk)
+
+## Atividade anterior
+
+- [DAM1-Atividade1](https://github.com/tadeujeronimo/DAM1-Atividade1) — Robô Marciano em Kotlin (console)
 
 ## Autor
 
