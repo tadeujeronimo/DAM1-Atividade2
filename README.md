@@ -57,6 +57,10 @@ app/src/main/
 
 - [DAM1-Atividade1](https://github.com/tadeujeronimo/DAM1-Atividade1) — Robô Marciano em Kotlin (console)
 
+## Vídeo explicativo no YouTube (não listado):
+
+[https://youtu.be/8bQJqhe-mRw](https://youtu.be/8bQJqhe-mRw)
+
 ## Autor
 
 - **Nome**: Tadeu dos Santos Jerônimo
